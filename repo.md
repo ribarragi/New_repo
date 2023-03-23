@@ -1,33 +1,3 @@
-<html>
-<head>
-<style>
-img {
-  /* border: 1px solid #ddd; */
-  /* border-radius: 6px; */
-  /* padding: 2px; */
-  /* padding-right: 16px; */
-}
-/* img.Hover:hover {
-  opacity: 1;
-} */
-img.Photo {
-   float: left;
-   padding-right: 16px;
-}
-h1.main {
-  color: #1E4385;
-  font-family: Verdana;
-  text-align: center;
-  font-weight: 700;
-}
-h2{
-  color: #326FDC;
-  font-weight: 600;
-}
-
-</style>
-</head>
-<body>
 
 <h1 class="main"> Portfolio: Ricardo Ibarra Gil </h1>
 
@@ -88,12 +58,5 @@ This is not
 
 
 Link here: https://ribarragi.github.io/
-
-
-
-
-
-</body>
-</html>
 
 
